@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{366148B7-2392-4F42-80D6-786B7A3682AE}</ProjectGuid>
+    <ProjectGuid>{A29E67AC-1C22-4B92-89A6-539F44679929}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sitecore.Foundation.DependencyInjection</RootNamespace>
